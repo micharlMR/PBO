@@ -1,0 +1,26 @@
+1. Multideminsional array merupakan array yang memiliki 2 index
+   contohnya matrix
+   int matrix[2][2]
+   1 2
+   3 4
+   
+   matrix[0][0] itu 1
+   
+2. 
+a. length untuk mencari panjang string
+b. capacity untuk mencari total ukuran yang dipakai
+c. append untuk menambahkan text dibelakang string
+d. insert untuk memasukkan text pada index ke berapa
+e. reverse untuk membalikkan string
+f. delete untuk menghapus string dari index ke berapa sampai index ke berapa
+g. deleteat untuk menghapus char pada index ke berapa
+h. replace untuk mengganti string yang ada dengan string yang baru
+i. substring untuk mendapatkan nilai string dari index ke berapa sampai index ke berapa
+j. charat untuk mendapatkan nilai char pada index ke berapa
+
+3.
+
+- Tidak dapat rusak oleh gangguan thread atau diamati dalam keadaan yang tidak konsisten
+
+- Keadaan internalnya tetap konstan
+
